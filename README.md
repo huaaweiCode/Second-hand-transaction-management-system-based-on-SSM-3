@@ -1,10 +1,5 @@
 # 二手交易管理系统SSM
 
-## 获取方式
-
-下方扫一下，回复项目关键词：**二手3**
-
-![image-20220509000010316](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -75,8 +70,3 @@
 
 管理员你可以对物品、订单、用户、类型等进行查看、删除等操作
 
-## 5、获取方式
-
-下方扫一下，回复项目关键词：**二手3**
-
-![image-20220509000010316](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
