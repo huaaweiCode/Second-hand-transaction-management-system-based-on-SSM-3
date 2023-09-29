@@ -69,4 +69,8 @@
 ![管理员-物品类型管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220509152026.jpg)
 
 管理员你可以对物品、订单、用户、类型等进行查看、删除等操作
+### 获取方式&视频演示
 
+下方扫一下，回复关键词：二手
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
